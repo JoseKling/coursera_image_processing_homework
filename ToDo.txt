@@ -1,0 +1,3 @@
+ - More efficient non local means
+ - Run non local means in an image and video
+ - Check the JPEG and FFT compression scripts
